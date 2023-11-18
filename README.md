@@ -1,6 +1,7 @@
 <!--### Hi there 👋
 
 add and finish Linux LEARNED 
+add and finish  server LEARNED
 add and finish sql LEARNED
 add and finish flutter projects
 add final project 
