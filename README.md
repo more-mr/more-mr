@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
+
 add and finish flutter projects
 add and finish Learned Linux 
 add final project 
