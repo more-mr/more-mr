@@ -1,8 +1,8 @@
 <!--### Hi there 👋
 
-
+add and finish Linux LEARNED 
+add and finish sql LEARNED
 add and finish flutter projects
-add and finish Learned Linux 
 add final project 
 
 **more-mr/more-mr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
